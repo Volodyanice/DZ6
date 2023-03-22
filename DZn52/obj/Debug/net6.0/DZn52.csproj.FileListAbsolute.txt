@@ -1,0 +1,15 @@
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.csproj.AssemblyReference.cache
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.AssemblyInfoInputs.cache
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.AssemblyInfo.cs
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.csproj.CoreCompileInputs.cache
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\bin\Debug\net6.0\DZn52.exe
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\bin\Debug\net6.0\DZn52.deps.json
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\bin\Debug\net6.0\DZn52.runtimeconfig.json
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\bin\Debug\net6.0\DZn52.dll
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\bin\Debug\net6.0\DZn52.pdb
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.dll
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\refint\DZn52.dll
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.pdb
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\DZn52.genruntimeconfig.cache
+C:\Users\Владимер\OneDrive\Рабочий стол\DZ6\DZn52\obj\Debug\net6.0\ref\DZn52.dll
